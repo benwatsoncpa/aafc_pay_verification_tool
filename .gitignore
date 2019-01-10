@@ -1,4 +1,5 @@
 *
+!.gitignore
 !routines/
 !deprecated/
 !functions/
